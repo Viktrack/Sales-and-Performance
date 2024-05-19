@@ -48,6 +48,11 @@ EDA invloves exploring the sales data to answer the key questions, such as:
 Some interesting DAx 
 !!!DAX Functions 
 
+
+
+![AgeandGender](https://github.com/Viktrack/Sales-and-Performance/assets/150234141/83ce1416-e6f0-47a1-9ee5-0226f741ebfb)
+
+
  ### Results/Findings
 
  Total Sales by Age Range and Gender
