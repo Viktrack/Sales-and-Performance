@@ -10,6 +10,7 @@
 
 
 ## Project Overview
+---
 
 My mission is to provide insightful business analysis to a company, a leading car retailer with branches across six states in Nigeria. My task involves analyzing the sales performance dataset for the year 2020 and delivering actionable insights to the business owner.
 
@@ -136,9 +137,15 @@ and a peak in the last quarter of the year (August to November).
 I had to remove the outlays in the transactionID because it would have affected the accuracy of my conclusion from the analysis.
 
 ### Reference
-Skillahead Academy(Aniate Etuk)
+Skillahead Academy(Aniate Etuk)https://www.linkedin.com/in/etukanietie
 
-   
+  😄
+  💻
+
+  
+|Heading1|Heading2|
+|--------|--------|
+
 
 
 
